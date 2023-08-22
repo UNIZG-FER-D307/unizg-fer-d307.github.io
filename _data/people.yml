@@ -1,161 +1,120 @@
 
-prof-a:
-    display_name: "Prof A"
+sinisa:
+    display_name: "Siniša Šegvić"
+    webpage: "http://www.zemris.fer.hr/~ssegvic/"
+    github: ssegvic
     role: faculty
+    image: /img/people/sinisa.jpg
+    bio: Professor and research group lead.
 
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
+josip:
+    display_name: "Josip Šarić"
+    webpage: "https://jsaric.github.io"
+    github: jsaric
     role: postdoc
+    image: /img/people/josip.jpg
+    bio: Postdoc
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+petra:
+    display_name: "Petra Bevandić"
+    webpage: ""
+    github: pbraniac
+    role: postdoc
+    image: 
+    bio: Postdoc
+
+ivang:
+    display_name: "Ivan Grubišić"
+    webpage: ""
+    github: Ivan1248
     role: grad
-    image: /img/people/storm.png
+    image: 
+    bio: PhD student    
 
-grad-a:
-    display_name: "Grad A"
+marin:
+    display_name: "Marin Kačan"
+    webpage: ""
+    github: mkacan
     role: grad
+    image: 
+    bio: PhD student    
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+matej:
+    display_name: "Matej Grcic"
+    webpage: ""
+    github: mgrcic
     role: grad
+    image: 
+    bio: PhD student
 
-grad-c:
-    display_name: "Grad C"
+iva:
+    display_name: "Iva Sović"
+    webpage: ""
+    github: isovic
     role: grad
+    image: 
+    bio: PhD student    
 
-grad-d:
-    display_name: "Grad D"
+ivans:
+    display_name: "Ivan Sabolić"
+    webpage: ""
+    github: babotrojka
     role: grad
+    image: 
+    bio: PhD student
 
-grad-e:
-    display_name: "Grad E"
+ivanm:
+    display_name: "Ivan Martinović"
+    webpage: ""
+    github: helen1c
     role: grad
+    image: 
+    bio: PhD student
 
-grad-f:
-    display_name: "Grad F"
+anja:
+    display_name: "Anja Delić"
+    webpage: ""
+    github: adelic99
     role: grad
+    image: 
+    bio: PhD student
 
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
-alum-a:
-    display_name: "Alum A"
+marino:
+    display_name: "Marin Oršić"
+    webpage: ""
+    github: morsic
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    image: 
+    bio: Now at Microblink.
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
+ivank:
+    display_name: "Ivan Krešo"
+    webpage: ""
+    github: ikreso
     role: alum
+    image: 
+    bio: Now at RealNetworks.
 
-alum-c:
-    display_name: "Alum C"
+ivansik:
+    display_name: "Ivan Sikirić"
+    webpage: ""
+    github: 
     role: alum
-    webpage: "https://www.google.com"
+    image: 
+    bio: Now at Google.
 
-alum-d:
-    display_name: "Alum D"
+valentina:
+    display_name: "Valentina Zadrija"
+    webpage: ""
+    github: 
     role: alum
+    image: 
+    bio: Now at Gideon.
 
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
+nenad:
+    display_name: "Nenad Markuš"
+    webpage: ""
+    github: 
     role: collab
-
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+    image: 
+    bio: 
